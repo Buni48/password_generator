@@ -1,6 +1,6 @@
 # Password Generator
 
-A tool to generate a random password.
+A tool to generate a random password using [Shoelace](https://shoelace.style/) as a design system.
 
 You can choose if your password should contain:
 - only numbers
